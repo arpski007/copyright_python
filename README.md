@@ -1,3 +1,5 @@
+# Create venv file
+python -m venv venv
 
 
 # Activating Virtual Environment (venv)
