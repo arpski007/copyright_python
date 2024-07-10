@@ -12,3 +12,8 @@ pip install -r requirements.txt
 
 # Check Installed Libraries
 pip freeze >> rrrr.txt
+
+
+
+
+# Add more here
