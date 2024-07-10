@@ -1,0 +1,16 @@
+- conversion factors 
+    - determine categories (list down all categories)
+    - list of units
+    - reference: http://lemniscateinstitute.com/services/physics/1.3-conversion-of-units/
+
+
+
+# Example
+
+# Length
+- meter
+- 
+
+# Pressure
+- pounds per square foot
+- p
