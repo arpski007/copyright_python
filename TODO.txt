@@ -5,12 +5,247 @@
 
 
 
-# Example
+List of units used across multiple engineering disciplines
 
-# Length
-- meter
-- 
+Length
+•Customary (English):
+    Inch (in)
+    Foot (ft)
+    Yard (yd)
+    Mile (mi)
+    Mil (thousandth of an inch)
+    Furlong
+    Chain
+    Rod
+    Link
+    Survey Foot
+•SI:
+    Meter (m)
+    Centimeter (cm)
+    Millimeter (mm)
+    Kilometer (km)
+    Micrometer (µm)
+    Nanometer (nm)
+•CGS:
+    Centimeter (cm)
+    Millimeter (mm)
+    Decimeter (dm)
+    Micron (µm)
 
-# Pressure
-- pounds per square foot
-- p
+Area
+•Customary (English):
+    Square Inch (in²)
+    Square Foot (ft²)
+    Square Yard (yd²)
+    Acre
+    Square Mile (mi²)
+    Rood
+•SI:
+    Square Meter (m²)
+    Square Kilometer (km²)
+    Hectare (ha)
+    Square Centimeter (cm²)
+•CGS:
+    Square Centimeter (cm²)
+
+Volume
+•Customary (English):
+    Cubic Inch (in³)
+    Cubic Foot (ft³)
+    Cubic Yard (yd³)
+    Gallon (gal)
+        US Gallon
+        Imperial Gallon
+    Quart (qt)
+    Pint (pt)
+    Cup
+    Fluid Ounce (fl oz)
+    Teaspoon (tsp)
+    Tablespoon (tbsp)
+    Barrel (for oil)
+    Peck
+    Bushel
+    Board Foot
+    Acre-foot
+•SI:
+    Cubic Meter (m³)
+    Liter (L)
+    Milliliter (mL)
+    Cubic Centimeter (cm³)
+    Deciliter (dL)
+•CGS:
+    Cubic Centimeter (cm³)
+    Liter (L)
+    Milliliter (mL)
+
+Mass (Weight)
+•Customary (English):
+    Ounce (oz)
+    Pound (lb)
+    Ton (short ton, long ton)
+    Grain
+    Dram
+    Stone
+•SI:
+    Kilogram (kg)
+    Gram (g)
+    Milligram (mg)
+    Metric Ton (tonne)
+•CGS:
+    Gram (g)
+    Milligram (mg)
+    Microgram (µg)
+
+Force
+•Customary (English):
+    Pound-force (lbf)
+    Ounce-force (ozf)
+•SI:
+    Newton (N)
+    Kilonewton (kN)
+•CGS:
+    Dyne (dyn)
+    Kilodyne
+
+Pressure
+•Customary (English):
+    Pound per Square Inch (psi)
+    Inch of Mercury (inHg)
+    Foot of Water (ft H₂O)
+    Atmosphere (atm)
+    Torr
+•SI:
+    Pascal (Pa)
+    Kilopascal (kPa)
+    Bar
+    Millibar (mbar)
+•CGS:
+    Barye (Ba)
+
+Energy
+•Customary (English):
+    British Thermal Unit (BTU)
+    Foot-pound (ft·lb)
+    Calorie (cal)
+    Therm
+    Erg
+•SI:
+    Joule (J)
+    Kilojoule (kJ)
+    Megajoule (MJ)
+    Watt-hour (Wh)
+    Kilowatt-hour (kWh)
+•CGS:
+    Erg
+
+Power
+•Customary (English):
+    Horsepower (hp)
+    BTU per hour (BTU/h)
+•SI:
+    Watt (W)
+    Kilowatt (kW)
+    Megawatt (MW)
+    Gigawatt (GW)
+•CGS:
+    Erg per second (erg/s)
+
+Temperature
+•Customary (English):
+    Degrees Fahrenheit (°F)
+•SI:
+    Kelvin (K)
+    Degrees Celsius (°C)
+    Degrees Rankine (°R)
+•CGS:
+    Degrees Celsius (°C)
+Speed
+•Customary (English):
+    Feet per Second (ft/s)
+    Miles per Hour (mph)
+    Knots (nautical miles per hour)
+•SI:
+    Meters per Second (m/s)
+    Kilometers per Hour (km/h)
+•CGS:
+    Centimeters per Second (cm/s)
+
+Electrical Units
+•Customary (English):
+    Volt (V)
+    Ampere (A)
+    Ohm (Ω)
+    Watt (W)
+    Kilowatt-hour (kWh)
+    Farad (F)
+    Henry (H)
+    Coulomb (C)
+•SI:
+    Volt (V)
+    Ampere (A)
+    Ohm (Ω)
+    Watt (W)
+    Kilowatt-hour (kWh)
+    Farad (F)
+    Henry (H)
+    Coulomb (C)
+•CGS:
+    Statvolt
+    Abampere
+    Statohm
+    Erg per second (erg/s)
+    Abcoulomb
+
+Concentration
+•Customary (English):
+    Pound per Gallon (lb/gal)
+    Grain per Gallon (gr/gal)
+•SI:
+    Mole per Cubic Meter (mol/m³)
+    Kilogram per Cubic Meter (kg/m³)
+    Gram per Liter (g/L)
+    Milligram per Liter (mg/L)
+    Parts per Million (ppm)
+•CGS:
+    Mole per Cubic Centimeter (mol/cm³)
+    Gram per Cubic Centimeter (g/cm³)
+
+Flow Rate
+•Customary (English):
+    Gallons per Minute (GPM)
+    Cubic Feet per Minute (CFM)
+•SI:
+    Liters per Second (L/s)
+    Cubic Meters per Hour (m³/h)
+•CGS:
+    Cubic Centimeters per Second (cm³/s)
+
+Viscosity
+•Customary (English):
+    Poise
+    Centipoise
+•SI:
+    Pascal-second (Pa·s)
+•CGS:
+    Poise (P)
+    Centipoise (cP)
+
+Miscellaneous
+•Customary (English):
+    Micron (used for filtration, one-millionth of a meter but often used in customary contexts)
+    Board Foot (used in lumber)
+    Acre-foot (volume of water)
+    Barrel (bbl, for oil)
+    Degree API (American Petroleum Institute gravity)
+    Molarity (M)
+•SI:
+    Sievert (Sv) (radiation dose)
+    Gray (Gy) (absorbed radiation dose)
+    Mole (mol)
+    Siemens (S) (conductance)
+    Becquerel (Bq) (radioactivity)
+•CGS:
+    Stokes (St) (viscosity)
+    Roentgen (R) (exposure to ionizing radiation)
+    Curie (Ci) (radioactivity)
+
